@@ -23,7 +23,7 @@ public class Main {
 
         System.out.println(list.get(4));
 
-        for (CustomListImplementation list1: list)
+      //  for (CustomListImplementation list1: list)
 
 
     }
